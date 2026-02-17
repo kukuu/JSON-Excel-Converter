@@ -13,8 +13,8 @@ JSON Excel Converter. Scalable and modular script that accepts input/output path
 - SPYDER
 A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions. Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
 
-  - 1. https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md
-    2. 2. https://www.energytariffscheck.com/
+    1. https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md
+    2. https://www.energytariffscheck.com/
 
 ```
 
