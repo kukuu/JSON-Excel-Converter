@@ -1,2 +1,2 @@
 # JSON-Excel-Converter-Vice-Versa
-Data ConversionScript for JSON and EXCEL.
+Data Conversion Script for JSON and EXCEL.
