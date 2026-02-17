@@ -1,5 +1,14 @@
 # JSON Excel Converter
 
+Use with acknowledgement. Visit :
+
+- https://www.azzottomovies.com/:
+  - https://www.azzottomovies.com/movie/434853
+  - https://www.azzottomovies.com/lounge
+  - JUkebox
+  - Global Music and Sports Events 2026
+  - Pletora of Gallery Filters and Trends
+
 Data Conversion Script: Scalable and modular script that accepts input/output paths as terminal arguments:
 
 ```
@@ -210,5 +219,39 @@ if (command === 'json-to-excel') {
   showHelp();
   process.exit(1);
 }
+
+```
+
+## How to Use the Optimized Script
+
+1. Install Dependency at root i.e **azzotto-movies**
+
+```
+npm install xlsx
+```
+
+2. Make It Executable
+
+```
+chmod +x convert-json-excel.js
+
+```
+
+3. Convert JSON to Excel (with your paths)
+
+```
+node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx
+```
+
+4. Convert Excel back to JSON (after editing)
+
+```
+node convert-json-excel.js excel-to-json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
+```
+
+5. Convert ANY other JSON file
+
+```
+node convert-json-excel.js json-to-excel ./any-file.json ./any-output.xlsx
 
 ```
