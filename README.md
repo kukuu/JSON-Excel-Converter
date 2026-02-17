@@ -1,6 +1,26 @@
 # J2E 
 
-JSON-Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. **Please use with acknowledgement.** Visit:
+JSON-Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. 
+
+
+Key Features:
+
+✅ Fully modular. 
+
+✅ Works with any JSON/Excel file - Just specify paths.
+
+✅ Auto-creates directories - No need to pre-create folders.
+
+✅ Detailed feedback - Shows file sizes, record counts.
+
+✅ Error handling - Validates inputs before processing.
+
+✅ Help system - Built-in documentation.
+
+✅ Scalable - Can be used for any data conversion and processing.
+
+
+**Please use with acknowledgement.** Visit:
 
 - **AZZOTTO Movies**,
 
