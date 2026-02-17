@@ -1,8 +1,8 @@
 # J2E 
 
-JSON Excel Converter. Use with acknowledgement. Visit:
+JSON Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. Use with acknowledgement. Visit:
 
-- https://www.azzottomovies.com/: **Free Streaming Service**.
+- AZZOTTO Movies, https://www.azzottomovies.com/: **Free Streaming Service**.
   - Features:
     - https://www.azzottomovies.com/movie/434853
     - https://www.azzottomovies.com/lounge
@@ -10,7 +10,13 @@ JSON Excel Converter. Use with acknowledgement. Visit:
     - Global Music and Sports Events 2026
     - Pletora of GallerIES and Trends
 
-Data Conversion Script: Scalable and modular script that accepts input/output paths as terminal arguments:
+- SPYDER
+A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
+
+Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
+
+1. https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md
+2. https://www.energytariffscheck.com/
 
 ```
 
