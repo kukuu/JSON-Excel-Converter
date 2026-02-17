@@ -2,12 +2,13 @@
 
 Use with acknowledgement. Visit :
 
-- https://www.azzottomovies.com/:
-  - https://www.azzottomovies.com/movie/434853
-  - https://www.azzottomovies.com/lounge
-  - JUkebox
-  - Global Music and Sports Events 2026
-  - Pletora of Gallery Filters and Trends
+- https://www.azzottomovies.com/: Free streaming service.
+  - Features:
+   - https://www.azzottomovies.com/movie/434853
+   - https://www.azzottomovies.com/lounge
+   - JUKEBOX: Selection of GenXZ Music
+   - Global Music and Sports Events 2026
+   - Pletora of Gallery Filters and Trends
 
 Data Conversion Script: Scalable and modular script that accepts input/output paths as terminal arguments:
 
