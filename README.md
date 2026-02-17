@@ -250,7 +250,7 @@ if (command === 'json-to-excel') {
 
 ```
 
-## How to Use the Optimized Script
+## How to Use the Script
 
 1. Install Dependency at root i.e **azzotto-movies**
 
