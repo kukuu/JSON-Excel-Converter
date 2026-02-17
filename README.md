@@ -41,7 +41,7 @@ Scalable Infrastructure: The site is built for performance and scalability, capa
     - https://www.azzottomovies.com/lounge
     - JUKEBOX: Selection of GenXZ music
     - Global Music and Sports Events 2026
-    - Pletora of GallerIES and Trends
+    - Pletora of Galleries and Trends
 
 - **SPYDER**
 
