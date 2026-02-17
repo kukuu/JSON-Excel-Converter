@@ -2,7 +2,7 @@
 
 Use with acknowledgement. Visit :
 
-- https://www.azzottomovies.com/: Free Streaming Service.
+- https://www.azzottomovies.com/: **Free Streaming Service**.
   - Features:
     - https://www.azzottomovies.com/movie/434853
     - https://www.azzottomovies.com/lounge
