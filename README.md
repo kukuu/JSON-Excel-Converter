@@ -301,6 +301,7 @@ node convert-json-excel.js json-to-excel ./any-file.json ./any-output.xlsx
 https://github.com/kukuu/J2E-Application-Interface/blob/main/README.md  (****PRIVATE**)
 
 
+<img width="1436" height="731" alt="Screenshot 2026-02-17 at 15 45 52" src="https://github.com/user-attachments/assets/a2e450d9-61d6-481b-9e5f-02a3a1b99f15" />
 
 
 
