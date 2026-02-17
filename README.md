@@ -1,6 +1,6 @@
 # J2E 
 
-JSON Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. **Please use with acknowledgement.** Visit:
+JSON-Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. **Please use with acknowledgement.** Visit:
 
 - **AZZOTTO Movies**,
 
