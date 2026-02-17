@@ -40,7 +40,7 @@ A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly comput
 2. https://www.energytariffscheck.com/
 
 ```
-
+# Author: Alexander Adu-Sarkodie
 #!/usr/bin/env node
 
 /**
