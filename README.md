@@ -52,7 +52,7 @@ A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly comput
  * 
  * Examples:
  *   node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx
- *   node convert-json-excel.js excel-to-json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
+ *   node convert-json-excel.js excel-to-json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
  */
 
 const fs = require('fs');
@@ -96,7 +96,7 @@ Examples:
   node convert-json-excel.js excel-to-json ./data.xlsx ./output.json
 
   # Use with your specific paths
-  node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx
+  node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx
   
 Arguments:
   <input-json>   Path to input JSON file
@@ -268,13 +268,13 @@ chmod +x convert-json-excel.js
 3. Convert JSON to Excel (with your paths)
 
 ```
-node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx
+node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx
 ```
 
 4. Convert Excel back to JSON (after editing)
 
 ```
-node convert-json-excel.js excel-to-json public/data/spreadsheets/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
+node convert-json-excel.js excel-to-json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
 ```
 
 5. Convert ANY other JSON file
