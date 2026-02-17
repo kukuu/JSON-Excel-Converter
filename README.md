@@ -6,7 +6,7 @@ JSON Excel Converter. Scalable and modular script that accepts input/output path
   - _Features_:
     - https://www.azzottomovies.com/movie/434853
     - https://www.azzottomovies.com/lounge
-    - JUKEBOX: Selection of GenXZ Music
+    - JUKEBOX: Selection of GenXZ music
     - Global Music and Sports Events 2026
     - Pletora of GallerIES and Trends
 
