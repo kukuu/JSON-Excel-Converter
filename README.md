@@ -1,6 +1,6 @@
 # JSON Excel Converter
 
-Data Conversion Script 
+Data Conversion Script: Scalable and modular script that accepts input/output paths as terminal arguments:
 
 ```
 
