@@ -3,7 +3,7 @@
 JSON-Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. 
 
 
-Key Features:
+**Key Features:**
 
 ✅ Fully modular. 
 
