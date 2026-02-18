@@ -306,5 +306,5 @@ https://github.com/kukuu/J2E-Application-Interface/blob/main/README.md  (****PRI
 
 
 ## JASON Excel Converter
-
-Full Stack Solution - https://github.com/kukuu/JASON-Excel-Converter-Full-Stack-Solution (*** **PRIVATE**)
+⚡ Real-time conversion with backend API - Full Stack Solution 
+- https://github.com/kukuu/JASON-Excel-Converter-Full-Stack-Solution (*** **PRIVATE**)
