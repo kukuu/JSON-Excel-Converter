@@ -13,7 +13,7 @@ JSON-Excel Converter. Scalable and modular script that accepts input/output path
  
 ✅ Detailed feedback - Shows file sizes, record counts.
  
-✅ Error handling - Validates inputs before processing.
+✅ Error handling - Validates inputs before processing. 
 
 ✅ Help system - Built-in documentation.
 
