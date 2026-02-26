@@ -7,6 +7,16 @@ JSON-Excel Converter. Scalable and modular script that accepts input/output path
 
 ✅ Fully modular. 
 
+✅ Handle:
+
+- Simple arrays: [{...}, {...}]
+
+- API-style objects: { "movies": [...], "total_results": 12 }
+
+- Single objects: {...} (wraps in array)
+
+- Objects with numeric keys: { "0": {...}, "1": {...} }
+
 ✅ Works with any JSON/Excel file - Just specify paths.
  
 ✅ Auto-creates directories - No need to pre-create folders.
@@ -18,6 +28,24 @@ JSON-Excel Converter. Scalable and modular script that accepts input/output path
 ✅ Help system - Built-in documentation.
 
 ✅ Scalable - Can be used for any data conversion and processing.
+
+✅ Download Buttons:
+Download buttons appear next to JSON and Excel files when they exist
+
+✅ Download button for the last generated file appears in the preview section
+
+✅ Tracks generated files in memory for easy download
+
+✅ Enhanced preview for Excel files showing file info instead of trying to show binary data
+
+✅  Shows file size and name in preview
+
+✅ Server Enhancements: /api/download/:filename endpoint to download generated files and  /api/download-file endpoint to download source files
+
+✅ Responsive design for mobile devices
+
+
+
 
 
 **Please use with acknowledgement.** Visit:
