@@ -92,13 +92,13 @@ chmod +x convert-json-excel.js
 3. Convert JSON to Excel (with your paths)
 
 ```
-node convert-json-excel.js json-to-excel public/data/cycling-ads/cycling-ads.json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx
+node convert-json-excel.js json-to-excel public/data/ft-transactions/ft-transactions.json public/data/spreadsheet-json-excel-converter/ft-transactions/ft-transactions.xlsx
 ```
 
 4. Convert Excel back to JSON (after editing)
 
 ```
-node convert-json-excel.js excel-to-json public/data/spreadsheet-json-excel-converter/cycling-ads/cycling-ads.xlsx public/data/cycling-ads/cycling-ads.json
+node convert-json-excel.js excel-to-json public/data/spreadsheet-json-excel-converter/ft-transactions/ft-transactions.xlsx public/data/ft-transactions/ft-transactions.json
 ```
 
 5. Convert ANY other JSON file
