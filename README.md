@@ -1,13 +1,33 @@
-# J2E 
+# Nut Cracker
 
-JSON-Excel Converter. Scalable and modular script that accepts input/output paths as terminal arguments. 
+JSON-Excel Converter - J2E. Scalable and modular script that accepts input/output paths as terminal arguments. 
 
+
+## Complete Workflow
+
+- Upload your JSON or Excel file via drag & drop
+- Edit input/output paths if needed
+- Convert with one click
+- Preview the result instantly
+- Download or continue editing
 
 **Key Features:**
 
 ✅ Fully modular. 
 
-✅ Handle:
+✅ Real server connection status
+
+✅ Drag & drop file upload
+
+✅ File info display (size, modified date)
+
+✅ Live preview after conversion
+
+✅ Auto-refresh file list
+
+✅ Error handling with user feedback
+
+✅ Handles:
 
 - Simple arrays: [{...}, {...}]
 
