@@ -1,5 +1,7 @@
 # Nut Cracker
 
+_Author: Alexander Adu-Sarkodie_
+
 JSON-Excel Converter - J2E. Scalable and modular script that accepts input/output paths as terminal arguments. 
 
 
