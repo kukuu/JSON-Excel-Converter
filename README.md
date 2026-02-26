@@ -2,7 +2,7 @@
 
 Author: Alexander Adu-Sarkodie
 
-_JSON to Excel Converter: Intelligent Data Transformation_ 
+_JSON to Excel Converter: Intelligent Data Transformation_  
 
 
 The **Nut Cracker** is a sophisticated, enterprise-grade data conversion platform that seamlessly transforms complex JSON structures into perfectly formatted Excel spreadsheets and vice versa. What sets it apart is its remarkable **intelligent array detection engine** - unlike basic converters that fail when encountering nested data, Nut Cracker recursively searches through JSON objects to find the most meaningful arrays, prioritizing common API response patterns like "transactions," "results," or "data." This means whether you're working with a simple flat array, a deeply nested API response, or a complex object with numeric keys, the system automatically extracts and flattens the data into a clean, tabular format. The platform features an elegant, real-time web interface with drag-and-drop upload, live preview capabilities, and automatic file download options, making it accessible to both technical and non-technical users alike. 
