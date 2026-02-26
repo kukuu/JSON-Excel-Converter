@@ -7,7 +7,7 @@ JSON-Excel Converter - J2E. Scalable and modular script that accepts input/outpu
 
 ## Complete Workflow
 
-- Upload your JSON or Excel file via drag & drop
+- Upload your JSON or Excel file via drag & drop 
 - Edit input/output paths if needed
 - Convert with one click
 - Preview the result instantly
